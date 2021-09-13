@@ -1,0 +1,6 @@
+C:\Users\AD\RiderProjects\HelloWorld\Lad1_03_2\bin\Debug\Lad1_03_2.exe
+C:\Users\AD\RiderProjects\HelloWorld\Lad1_03_2\bin\Debug\Lad1_03_2.pdb
+C:\Users\AD\RiderProjects\HelloWorld\Lad1_03_2\obj\Debug\Lad1_03_2.csprojAssemblyReference.cache
+C:\Users\AD\RiderProjects\HelloWorld\Lad1_03_2\obj\Debug\Lad1_03_2.csproj.CoreCompileInputs.cache
+C:\Users\AD\RiderProjects\HelloWorld\Lad1_03_2\obj\Debug\Lad1_03_2.exe
+C:\Users\AD\RiderProjects\HelloWorld\Lad1_03_2\obj\Debug\Lad1_03_2.pdb

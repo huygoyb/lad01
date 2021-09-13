@@ -1,0 +1,6 @@
+C:\Users\AD\RiderProjects\HelloWorld\Ex02\bin\Debug\Ex02.exe
+C:\Users\AD\RiderProjects\HelloWorld\Ex02\bin\Debug\Ex02.pdb
+C:\Users\AD\RiderProjects\HelloWorld\Ex02\obj\Debug\Ex02.csprojAssemblyReference.cache
+C:\Users\AD\RiderProjects\HelloWorld\Ex02\obj\Debug\Ex02.csproj.CoreCompileInputs.cache
+C:\Users\AD\RiderProjects\HelloWorld\Ex02\obj\Debug\Ex02.exe
+C:\Users\AD\RiderProjects\HelloWorld\Ex02\obj\Debug\Ex02.pdb

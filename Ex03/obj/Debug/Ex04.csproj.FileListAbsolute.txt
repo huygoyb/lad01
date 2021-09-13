@@ -1,0 +1,6 @@
+C:\Users\AD\RiderProjects\HelloWorld\Ex04\bin\Debug\Ex04.exe
+C:\Users\AD\RiderProjects\HelloWorld\Ex04\bin\Debug\Ex04.pdb
+C:\Users\AD\RiderProjects\HelloWorld\Ex04\obj\Debug\Ex04.csprojAssemblyReference.cache
+C:\Users\AD\RiderProjects\HelloWorld\Ex04\obj\Debug\Ex04.csproj.CoreCompileInputs.cache
+C:\Users\AD\RiderProjects\HelloWorld\Ex04\obj\Debug\Ex04.exe
+C:\Users\AD\RiderProjects\HelloWorld\Ex04\obj\Debug\Ex04.pdb
